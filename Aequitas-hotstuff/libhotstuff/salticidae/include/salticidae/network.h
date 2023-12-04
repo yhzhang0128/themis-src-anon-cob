@@ -796,6 +796,8 @@ void PeerNetwork<O, _, __>::on_dispatcher_setup(const ConnPool::conn_t &_conn) {
         auto it = known_peers.find(pid);
         if (it == known_peers.end())
         {
+            printf("###### try to find pid=%d failed with conn %s, known_peers have %d items\n", pid, std::string(*conn).c_str(), known_peers.size());
+
             if (conn->manual)
                 send_msg(MsgPing(listen_addr, 0), conn);
             else

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/test_secp256k1.dir/test_secp256k1.cpp.o"
+  "CMakeFiles/test_secp256k1.dir/test_secp256k1.cpp.o.d"
   "test_secp256k1"
   "test_secp256k1.pdb"
 )

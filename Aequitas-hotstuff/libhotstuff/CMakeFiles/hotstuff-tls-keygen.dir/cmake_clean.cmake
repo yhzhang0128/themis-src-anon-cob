@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/hotstuff-tls-keygen.dir/src/hotstuff_tls_keygen.cpp.o"
+  "CMakeFiles/hotstuff-tls-keygen.dir/src/hotstuff_tls_keygen.cpp.o.d"
   "hotstuff-tls-keygen"
   "hotstuff-tls-keygen.pdb"
 )

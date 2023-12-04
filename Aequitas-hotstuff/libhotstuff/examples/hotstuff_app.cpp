@@ -145,7 +145,8 @@ std::pair<std::string, std::string> split_ip_port_cport(const std::string &s) {
 salticidae::BoxObj<HotStuffApp> papp = nullptr;
 
 int main(int argc, char **argv) {
-    Config config("hotstuff.conf");
+    //Config config("hotstuff.conf");
+    Config config(argv[1]);
 
     ElapsedTime elapsed;
     elapsed.start();

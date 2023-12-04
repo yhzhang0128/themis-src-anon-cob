@@ -1,24 +1,22 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ubuntu/Ted-original/libhotstuff/salticidae/src/conn.cpp" "/home/ubuntu/Ted-original/libhotstuff/salticidae/CMakeFiles/salticidae.dir/src/conn.cpp.o"
-  "/home/ubuntu/Ted-original/libhotstuff/salticidae/src/crypto.cpp" "/home/ubuntu/Ted-original/libhotstuff/salticidae/CMakeFiles/salticidae.dir/src/crypto.cpp.o"
-  "/home/ubuntu/Ted-original/libhotstuff/salticidae/src/event.cpp" "/home/ubuntu/Ted-original/libhotstuff/salticidae/CMakeFiles/salticidae.dir/src/event.cpp.o"
-  "/home/ubuntu/Ted-original/libhotstuff/salticidae/src/msg.cpp" "/home/ubuntu/Ted-original/libhotstuff/salticidae/CMakeFiles/salticidae.dir/src/msg.cpp.o"
-  "/home/ubuntu/Ted-original/libhotstuff/salticidae/src/netaddr.cpp" "/home/ubuntu/Ted-original/libhotstuff/salticidae/CMakeFiles/salticidae.dir/src/netaddr.cpp.o"
-  "/home/ubuntu/Ted-original/libhotstuff/salticidae/src/network.cpp" "/home/ubuntu/Ted-original/libhotstuff/salticidae/CMakeFiles/salticidae.dir/src/network.cpp.o"
-  "/home/ubuntu/Ted-original/libhotstuff/salticidae/src/stream.cpp" "/home/ubuntu/Ted-original/libhotstuff/salticidae/CMakeFiles/salticidae.dir/src/stream.cpp.o"
-  "/home/ubuntu/Ted-original/libhotstuff/salticidae/src/type.cpp" "/home/ubuntu/Ted-original/libhotstuff/salticidae/CMakeFiles/salticidae.dir/src/type.cpp.o"
-  "/home/ubuntu/Ted-original/libhotstuff/salticidae/src/util.cpp" "/home/ubuntu/Ted-original/libhotstuff/salticidae/CMakeFiles/salticidae.dir/src/util.cpp.o"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "salticidae/include"
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/salticidae/src/conn.cpp" "salticidae/CMakeFiles/salticidae.dir/src/conn.cpp.o" "gcc" "salticidae/CMakeFiles/salticidae.dir/src/conn.cpp.o.d"
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/salticidae/src/crypto.cpp" "salticidae/CMakeFiles/salticidae.dir/src/crypto.cpp.o" "gcc" "salticidae/CMakeFiles/salticidae.dir/src/crypto.cpp.o.d"
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/salticidae/src/event.cpp" "salticidae/CMakeFiles/salticidae.dir/src/event.cpp.o" "gcc" "salticidae/CMakeFiles/salticidae.dir/src/event.cpp.o.d"
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/salticidae/src/msg.cpp" "salticidae/CMakeFiles/salticidae.dir/src/msg.cpp.o" "gcc" "salticidae/CMakeFiles/salticidae.dir/src/msg.cpp.o.d"
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/salticidae/src/netaddr.cpp" "salticidae/CMakeFiles/salticidae.dir/src/netaddr.cpp.o" "gcc" "salticidae/CMakeFiles/salticidae.dir/src/netaddr.cpp.o.d"
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/salticidae/src/network.cpp" "salticidae/CMakeFiles/salticidae.dir/src/network.cpp.o" "gcc" "salticidae/CMakeFiles/salticidae.dir/src/network.cpp.o.d"
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/salticidae/src/stream.cpp" "salticidae/CMakeFiles/salticidae.dir/src/stream.cpp.o" "gcc" "salticidae/CMakeFiles/salticidae.dir/src/stream.cpp.o.d"
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/salticidae/src/type.cpp" "salticidae/CMakeFiles/salticidae.dir/src/type.cpp.o" "gcc" "salticidae/CMakeFiles/salticidae.dir/src/type.cpp.o.d"
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/salticidae/src/util.cpp" "salticidae/CMakeFiles/salticidae.dir/src/util.cpp.o" "gcc" "salticidae/CMakeFiles/salticidae.dir/src/util.cpp.o.d"
   )
 
 # Targets to which this target links.

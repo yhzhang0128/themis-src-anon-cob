@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/ubuntu/Ted-original/libhotstuff/CMakeFiles/libsecp256k1"
+			"file" : "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/CMakeFiles/libsecp256k1"
 		},
 		{
-			"file" : "/home/ubuntu/Ted-original/libhotstuff/CMakeFiles/libsecp256k1.rule"
+			"file" : "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/CMakeFiles/libsecp256k1.rule"
 		},
 		{
-			"file" : "/home/ubuntu/Ted-original/libhotstuff/CMakeFiles/libsecp256k1-complete.rule"
+			"file" : "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/CMakeFiles/libsecp256k1-complete.rule"
 		},
 		{
-			"file" : "/home/ubuntu/Ted-original/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-install.rule"
+			"file" : "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-build.rule"
 		},
 		{
-			"file" : "/home/ubuntu/Ted-original/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-mkdir.rule"
+			"file" : "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-configure.rule"
 		},
 		{
-			"file" : "/home/ubuntu/Ted-original/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-download.rule"
+			"file" : "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-download.rule"
 		},
 		{
-			"file" : "/home/ubuntu/Ted-original/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-update.rule"
+			"file" : "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-install.rule"
 		},
 		{
-			"file" : "/home/ubuntu/Ted-original/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-patch.rule"
+			"file" : "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-mkdir.rule"
 		},
 		{
-			"file" : "/home/ubuntu/Ted-original/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-configure.rule"
+			"file" : "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-patch.rule"
 		},
 		{
-			"file" : "/home/ubuntu/Ted-original/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-build.rule"
+			"file" : "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-update.rule"
 		}
 	],
 	"target" : 

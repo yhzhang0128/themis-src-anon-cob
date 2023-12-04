@@ -1,25 +1,20 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ubuntu/Ted-original/libhotstuff/examples/hotstuff_client.cpp" "/home/ubuntu/Ted-original/libhotstuff/examples/CMakeFiles/hotstuff-client.dir/hotstuff_client.cpp.o"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "salticidae/include"
-  "secp256k1/include"
-  "."
-  "include"
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/examples/hotstuff_client.cpp" "examples/CMakeFiles/hotstuff-client.dir/hotstuff_client.cpp.o" "gcc" "examples/CMakeFiles/hotstuff-client.dir/hotstuff_client.cpp.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/ubuntu/Ted-original/libhotstuff/CMakeFiles/hotstuff_static.dir/DependInfo.cmake"
-  "/home/ubuntu/Ted-original/libhotstuff/salticidae/CMakeFiles/salticidae_static.dir/DependInfo.cmake"
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/CMakeFiles/hotstuff_static.dir/DependInfo.cmake"
+  "/home/yunhao/osdi/themis-src-anon/Aequitas-hotstuff/libhotstuff/salticidae/CMakeFiles/salticidae_static.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
